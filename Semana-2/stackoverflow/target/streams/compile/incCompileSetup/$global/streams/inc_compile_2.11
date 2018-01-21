@@ -1,0 +1,446 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+41 items
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting$.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$10.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$12$$anonfun$apply$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$12.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$13.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$14.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$15.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$16.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17$$anonfun$18.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17$$anonfun$19.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17$$anonfun$2.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17$$anonfun$20.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$3.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$4.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$5.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$6.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$7.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$8.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$9.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$2.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$findClosest$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$2.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$main$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$2.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$rawPostings$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$2.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$scoredPostings$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$vectorPostings$1.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$vectorPostings$2.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$.class
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow.class
+binary dependencies:
+3 items
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /Users/Jose/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+41 items
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.Posting
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.Posting$
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$10
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$12
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$12$$anonfun$apply$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$13
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$14
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$15
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$16
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$17
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$17$$anonfun$18
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$17$$anonfun$19
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$17$$anonfun$2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$17$$anonfun$20
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$3
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$4
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$5
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$6
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$7
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$8
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$9
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$findClosest$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$main$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$rawPostings$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$scoredPostings$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$vectorPostings$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$vectorPostings$2
+used names:
+247 items
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> %
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> &&
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> *
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> +
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> -
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> /
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> <
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> <init>
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ==
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> >
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> >=
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> AbstractFunction6
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Array
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Boolean
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ClassTag
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Double
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Int
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Iterable
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Iterator
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> List
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Long
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> None
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Option
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Ordering
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Posting
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Predef
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Product
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> RDD
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Random
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ScalaRunTime
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Serializable
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> SparkConf
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> SparkContext
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StackOverflow
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Statics
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> String
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StringContext
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> StringOps
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Tuple2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Tuple4
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> Unit
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _3
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _4
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> _toString
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> a
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> a1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> a2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> abs
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> acceptedAnswer
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> annotation
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> answerHighScore
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> answers
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> answers_flattened
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> anyHash
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> apache
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> apply
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$3
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$4
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$5
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$6
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arg$macro$7
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> arr
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> as
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> asInstanceOf
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> assert
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> augmentString
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> averageVectors
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> bestIndex
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> canBuildFrom
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> centers
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clone
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> closest
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> closestGrouped
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clusterResults
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clusterSize
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> clusters
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> collect
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> collection
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> comp1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> comp2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> computeMedian
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> conf
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> converged
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> count
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> debug
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> distance
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> elt
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> eq
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> euclideanDistance
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> f
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> filter
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> finalizeHash
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> findClosest
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> firstLangInTag
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> flatMap
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> foreach
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> format
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> get
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupBy
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupByKey
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> grouped
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> groupedPostings
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> hasNext
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> head
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> highScore
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> i
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> id
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> identity
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> idx
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> immutable
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> intArrayOps
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> intWrapper
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> intern
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> isDefined
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> isEmpty
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> isInstanceOf
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> item
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> iter
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> iterator
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> j
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> join
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> joined
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> k
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeans
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeansEta
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeansKernels
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> kmeansMaxIterations
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> lang
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langId
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langLabel
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langPercent
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langSpread
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> langs
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> last
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> length
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> line
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> lines
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> lower
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ls
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> map
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> mapValues
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> materializeClassTag
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> math
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> maxBy
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> means
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> median
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> medianScore
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> mix
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ne
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> newMeans
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> next
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> nextLong
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> org
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> p
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> package
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> parentId
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> part1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> part2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> perLang
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> percent
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> persist
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> posting
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> postingType
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> postings
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> printResults
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> println
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ps
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> questions
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> raw
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rawPostings
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rdd
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rddToPairRDDFunctions
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> refArrayOps
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> reflect
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> res
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> reservoirSampling
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> results
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> rnd
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> runtime
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> s
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sampleVectors
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sc
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> scala
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> score
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> scored
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> scoredPostings
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> setAppName
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> setMaster
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> size
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sortBy
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sortWith
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> spark
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> split
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> splitAt
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stackoverflow
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> stripMargin
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> sum
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tag
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tags
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tail
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tailrec
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> takeSample
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tempDist
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> textFile
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> tmp
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toArray
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toDouble
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toInt
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toIterator
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toLong
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> toString
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> typedProductIterator
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> unchecked
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> until
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> update
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> updatedClusters
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> upper
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> util
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> v
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> v1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> v2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> vectorPostings
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> vectors
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> vs
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$1
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$2
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$3
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> while$4
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> withFilter
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$14
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$15
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$16
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$17
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$18
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$19
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$20
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$21
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$22
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$23
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$24
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> x$25
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> ||
+product stamps:
+41 items
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting$.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/Posting.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$10.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$11.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$12$$anonfun$apply$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$12.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$13.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$14.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$15.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$16.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17$$anonfun$18.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17$$anonfun$19.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17$$anonfun$2.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17$$anonfun$20.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$17.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$3.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$4.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$5.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$6.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$7.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$8.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$9.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$clusterResults$2.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$findClosest$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$kmeans$2.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$main$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$printResults$2.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$rawPostings$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$sampleVectors$2.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$scoredPostings$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$vectorPostings$1.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$$anonfun$vectorPostings$2.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow$.class -> lastModified(1499046317000)
+/Users/Jose/Documents/Scala/week-2/stackoverflow/target/scala-2.11/classes/stackoverflow/StackOverflow.class -> lastModified(1499046317000)
+source stamps:
+1 items
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> hash(ac3e760d55c6b2f7ebe0617a4be55f250c9798dd)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/Jose/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+/Users/Jose/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Jose/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.SparkContext
+/Users/Jose/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Product
+internal apis:
+1 items
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA6xsfqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cH1FHht0AAZub3RpZnlzcQB+AAwgvS9odAAJa21lYW5zRXRhc3EAfgAMJv5IrnQAC3Jhd1Bvc3Rpbmdzc3EAfgAM4X5k0nQABHdhaXRzcQB+AAxKYL+mdAAOY29weSRkZWZhdWx0JDJzcQB+AAygG18edAANJGFzSW5zdGFuY2VPZnNxAH4ADKxfRrx0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADPhOYP50AAxwcm9kdWN0QXJpdHlzcQB+AAxXOrzpdAAGZXF1YWxzc3EAfgAMbJf7MnQABHRhZ3NzcQB+AAzJuOm0dAAMYXNJbnN0YW5jZU9mc3EAfgAMwttMO3QADHN5bmNocm9uaXplZHNxAH4ADLMJuwJ0AAVzY29yZXNxAH4ADHJuVjt0AAJzY3NxAH4ADBvwXPB0ABNrbWVhbnNNYXhJdGVyYXRpb25zc3EAfgAMYvE1+3QADSRpc0luc3RhbmNlT2ZzcQB+AAzzzG2IdAANU3RhY2tPdmVyZmxvd3NxAH4ADM5cnh10AAxwcmludFJlc3VsdHNzcQB+AAzIn2t9dAAFbGFuZ3NzcQB+AAyldEDFdAAIY2FuRXF1YWxzcQB+AAwe7hwudAAOY29weSRkZWZhdWx0JDRzcQB+AAzEhN2ydAALcG9zdGluZ1R5cGVzcQB+AAxJ6SMGdAAOdmVjdG9yUG9zdGluZ3NzcQB+AAx7nEv2dAAEbWFpbnNxAH4ADG7Dww50AApsYW5nU3ByZWFkc3EAfgAMpLgpp3QAEGttZWFucyRkZWZhdWx0JDRzcQB+AAx2YY0mdAANcHJvZHVjdFByZWZpeHNxAH4ADHlijuB0AAlub3RpZnlBbGxzcQB+AAyuJJKRdAALcmVhZFJlc29sdmVzcQB+AAxZefNEdAAEY29uZnNxAH4ADBJ4knd0AAljb252ZXJnZWRzcQB+AAwOSkICdAAMaXNJbnN0YW5jZU9mc3EAfgAMvT760XQABjxpbml0PnNxAH4ADJJ4O+50AAJpZHNxAH4ADKImXfN0ABBrbWVhbnMkZGVmYXVsdCQzc3EAfgAMGYhbQ3QAB1Bvc3RpbmdzcQB+AAwW7WQmdAAOc2NvcmVkUG9zdGluZ3NzcQB+AAzmBbp7dAACPT1zcQB+AAwdsU7vdAANY29tcHV0ZU1lZGlhbnNxAH4ADARsow90AAVjbG9uZXNxAH4ADKoKMtR0AA5hY2NlcHRlZEFuc3dlcnNxAH4ADHhDZ+x0AA1rbWVhbnNLZXJuZWxzc3EAfgAMaNfozHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMZpJBLnQABGNvcHlzcQB+AAy3qQDrdAAIdG9TdHJpbmdzcQB+AAxE/q+8dAAPZ3JvdXBlZFBvc3Rpbmdzc3EAfgAMszZOKnQAAiE9c3EAfgAMONA2lnQADXNhbXBsZVZlY3RvcnNzcQB+AAymB5nDdAAOY2x1c3RlclJlc3VsdHNzcQB+AAxdUx1NdAAIZ2V0Q2xhc3NzcQB+AAzsS+zhdAAOY29weSRkZWZhdWx0JDFzcQB+AAzQ9y4pdAARZXVjbGlkZWFuRGlzdGFuY2VzcQB+AAwFl+p2dAAOY29weSRkZWZhdWx0JDZzcQB+AAx/l8l0dAACbmVzcQB+AAwDFPMBdAAIcGFyZW50SWRzcQB+AAxZzEItdAAOYXZlcmFnZVZlY3RvcnNzcQB+AAyeTetbdAACZXFzcQB+AAx4Xj+kdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMp62R1nQAAiMjc3EAfgAMEyzTt3QACGZpbmFsaXplc3EAfgAMCyl8FnQAC2ZpbmRDbG9zZXN0c3EAfgAMks+k4HQABmttZWFuc3NxAH4ADLQcEpN0AA5wcm9kdWN0RWxlbWVudHNxAH4ADDija4N0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVzdGFja292ZXJmbG93LlBvc3Rpbmd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ALB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK8AcHNxAH4AtHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCXTAAJaW5oZXJpdGVkcQB+AJdMAAdwYXJlbnRzcQB+AJd4cQB+ALhzcQB+AK8AcHNxAH4AtHVxAH4AkgAAAABzcQB+AK8AcHNxAH4AtHVxAH4AkgAAAABzcQB+AK8AcHNxAH4AtHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4At3QAB1Byb2R1Y3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXI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
+external apis:
+0 items
+source infos:
+1 items
+/Users/Jose/Documents/Scala/week-2/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala -> 
+AAAAAgAAAQAAAGYARyAgICB2YWwgYW5zd2Vyc19mbGF0dGVuZWQgPSBmb3IgKChTb21lKGspLCB2KSA8LSBhbnN3ZXJzICkgeWllbGQgKGssIHYpAQAADMoBAAAAMQEAMSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGEvVXNlcnMvSm9zZS9Eb2N1bWVudHMvU2NhbGEvd2Vlay0yL3N0YWNrb3ZlcmZsb3cvc3JjL21haW4vc2NhbGEvc3RhY2tvdmVyZmxvdy9TdGFja092ZXJmbG93LnNjYWxhAQBhL1VzZXJzL0pvc2UvRG9jdW1lbnRzL1NjYWxhL3dlZWstMi9zdGFja292ZXJmbG93L3NyYy9tYWluL3NjYWxhL3N0YWNrb3ZlcmZsb3cvU3RhY2tPdmVyZmxvdy5zY2FsYQCHYHdpdGhGaWx0ZXInIG1ldGhvZCBkb2VzIG5vdCB5ZXQgZXhpc3Qgb24gb3JnLmFwYWNoZS5zcGFyay5yZGQuUkREWyhPcHRpb25bSW50XSwgc3RhY2tvdmVyZmxvdy5Qb3N0aW5nKV0sIHVzaW5nIGBmaWx0ZXInIG1ldGhvZCBpbnN0ZWFkAQAAAQAAAJkAGCAgICAoZm9yKHNjb3JlIDwtIHNjb3JlZAEAABLQAQAAABIBABIgICAgICAgICAgICAgICAgICABAGEvVXNlcnMvSm9zZS9Eb2N1bWVudHMvU2NhbGEvd2Vlay0yL3N0YWNrb3ZlcmZsb3cvc3JjL21haW4vc2NhbGEvc3RhY2tvdmVyZmxvdy9TdGFja092ZXJmbG93LnNjYWxhAQBhL1VzZXJzL0pvc2UvRG9jdW1lbnRzL1NjYWxhL3dlZWstMi9zdGFja292ZXJmbG93L3NyYy9tYWluL3NjYWxhL3N0YWNrb3ZlcmZsb3cvU3RhY2tPdmVyZmxvdy5zY2FsYQB/YHdpdGhGaWx0ZXInIG1ldGhvZCBkb2VzIG5vdCB5ZXQgZXhpc3Qgb24gb3JnLmFwYWNoZS5zcGFyay5yZGQuUkREWyhzdGFja292ZXJmbG93LlBvc3RpbmcsIEludCldLCB1c2luZyBgZmlsdGVyJyBtZXRob2QgaW5zdGVhZAEAAAAA
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXQYfXdB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9Kb3NlL0RvY3VtZW50cy9TY2FsYS93ZWVrLTIvc3RhY2tvdmVyZmxvdy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
